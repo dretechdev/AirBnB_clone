@@ -59,6 +59,7 @@ EOF  help  quit
 (hbnb)
 (hbnb)
 (hbnb) quit
+```
 
 ## 0x06 Authors
 
