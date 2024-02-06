@@ -63,7 +63,7 @@ EOF  help  quit
 
 ## 0x06 Authors
 
-``bash
+```bash
 Odekanmi Oluwadamilare Ayomide <oluwadamilareodekanmi@gmail.com>
 Okpala Perpetua Chioma <perpetualchioma00@gmail.com>
 ```
