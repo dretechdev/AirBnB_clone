@@ -1,3 +1,4 @@
+OA
 # This is a project on 0x00 AirBnB_clone - The Console
 
 ## Table of contents:
@@ -51,10 +52,17 @@ In interactive mode
 $ ./console.py
 (hbnb) help
 
-Documented commands (type help <topics>)):
-==========================================
-EOF help quit
+Documented commands (type help <topic>):
+========================================
+EOF  help  quit
 
 (hbnb)
 (hbnb)
-(hbnb)
+(hbnb) quit
+
+## 0x06 Authors
+
+``bash
+Odekanmi Oluwadamilare Ayomide <oluwadamilareodekanmi@gmail.com>
+Okpala Perpetua Chioma <perpetualchioma00@gmail.com>
+```
