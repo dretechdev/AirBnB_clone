@@ -1,4 +1,3 @@
-OA
 # This is a project on 0x00 AirBnB_clone - The Console
 
 ## Table of contents:
@@ -64,6 +63,5 @@ EOF  help  quit
 ## 0x06 Authors
 
 ```bash
-Odekanmi Oluwadamilare Ayomide <oluwadamilareodekanmi@gmail.com>
-Okpala Perpetua Chioma <perpetualchioma00@gmail.com>
-```
+Odekanmi Oluwadamilare Ayomide oluwadamilareodekanmi@gmail.com
+Okpala Perpetua Chioma perpetualchioma00@gmail.com
