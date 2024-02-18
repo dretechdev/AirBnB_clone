@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # 0x01. AirBnB clone - Web static
 
 ## Learning Objectives:bulb:
@@ -85,4 +84,3 @@ What you should learn from this project:
 - What is a selector
 - How to compute CSS Specificity Value
 - What are Box properties in CSS
->>>>>>> 5bb073bd723a586c2ee5ab3459e6157eab625386
